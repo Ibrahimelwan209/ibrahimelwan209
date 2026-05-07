@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Computer science student <br>- Interested in penetration testing<br>- Started learn Web Security<br>- Learn step by step</h4>
+<h4 align="left">CS Student <br>- Interested in penetration testing<br>- Started learn Web Security<br>- Learn step by step</h4>
 
 ###
 
