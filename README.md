@@ -1,10 +1,10 @@
-<br clear="both">
+٨<br clear="both">
 
 <h2 align="left">Hi there 👋</h2>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👨🏻‍💻  About Me</h2>
 
 ###
 
