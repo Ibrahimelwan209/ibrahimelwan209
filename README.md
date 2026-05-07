@@ -1,4 +1,4 @@
-٨<br clear="both">
+<br clear="both">
 
 <h2 align="left">Hi there 👋</h2>
 
