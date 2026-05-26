@@ -1,74 +1,83 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
----
+<h1 align="center">🛡️ Cybersecurity Student | Red Team Enthusiast</h1>
 
-### 🧑‍💻 USER PROFILE
-
-<p align="left">
-USER: Ibrahim Elwan <br>
-TEAM: Red Team <br>
-ROLE: Pentester | Bug Bounty Hunter <br>
-SYSTEM: Kali Linux ● Bash
+<p align="center">
+  <b>Breaking systems to understand them • Learning by attacking ethically</b>
 </p>
 
 ---
 
-### 📚 SKILLS
+### 👤 About Me
 
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Linux & Bash Scripting
-- Git & GitHub
-- Networking (CCNA Basics)
-- Hands-on Practice via TryHackMe Labs
+<p align="left">
+👤 Name: Ibrahim Elwan <br>
+🎯 Focus: Cybersecurity (Red Team / Pentesting) <br>
+💻 OS: Kali Linux • Bash <br>
+🚀 Goal: Bug Bounty Hunter & Ethical Hacker
+</p>
 
 ---
 
-### 🛠 LANGUAGES & TOOLS
+### 📚 Skills
+
+- 🧠 Object Oriented Programming (OOP)
+- 📊 Data Structures & Algorithms
+- 🐧 Linux & Bash Scripting
+- 🔗 Git & GitHub
+- 🌐 Networking (CCNA Basics)
+- 🧪 Hands-on Practice (TryHackMe / Labs)
+
+---
+
+### 🛠️ Tools & Languages
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
 
 ---
 
-### 🔗 CONNECT WITH ME
+### 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ibrahim-elwan-22243i/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Cybersecurity-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/ibrahim___elwan/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-secure%20life-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/ibrahimelwan22">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-DSA%20Practice-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 <a href="https://tryhackme.com/p/ibrahimelwan551">
-<img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-Red%20Team-88cc14?style=for-the-badge&logo=tryhackme"/>
 </a>
 
 <a href="mailto:ibrahimelwan551@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
-### 👀 VISITORS
+### 📊 Visitors
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibrahimelwan" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibrahimelwan209.ibrahimelwan209" />
 </div>
