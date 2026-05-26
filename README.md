@@ -11,7 +11,7 @@
 🎯 ROLE: pentester | Bug Bounty Hunter <br>
 💻 OS: Kali Linux • Bash <br>
 </p>
----
+
 ### 📚 Skills
 
 - 🧠 Object Oriented Programming (OOP)
