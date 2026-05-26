@@ -10,7 +10,7 @@
 
 <p align="left">
 👤 Name: Ibrahim Elwan <br>
-🎯 Focus: Cybersecurity (Red Team / Pentesting) <br>
+🎯 ROLE: pentester | Bug Bounty Hunter <br>
 💻 OS: Kali Linux • Bash <br>
 </p>
 ---
