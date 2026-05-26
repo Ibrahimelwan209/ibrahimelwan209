@@ -1,67 +1,74 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+---
 
-<p align="left">USER: Ibrahim Elwan <br>TEAM: Red Team <br>ROLE: pentester | bug bunty hunter <br>SYSTEM: kail Linux ● Bash</p>
+### 🧑‍💻 USER PROFILE
 
-###
+<p align="left">
+USER: Ibrahim Elwan <br>
+TEAM: Red Team <br>
+ROLE: Pentester | Bug Bounty Hunter <br>
+SYSTEM: Kali Linux ● Bash
+</p>
 
-<p align="left">Skills<br><br>- OOP<br>- Data structures<br>- Linux & Bash Scripting<br>- Git & GitHub <br>- Network (CCNA)<br>- Hands-on Practice via TryHackMe Labs</p>
+---
 
-###
+### 📚 SKILLS
 
-<h3 align="left">🛠 Language and tools</h3>
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Linux & Bash Scripting
+- Git & GitHub
+- Networking (CCNA Basics)
+- Hands-on Practice via TryHackMe Labs
 
-###
+---
+
+### 🛠 LANGUAGES & TOOLS
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
-###
+---
+
+### 🔗 CONNECT WITH ME
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-elwan-22243i/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ibrahim___elwan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ibrahimelwan22" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/ibrahimelwan551" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ibrahimelwan551@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+<a href="https://www.linkedin.com/in/ibrahim-elwan-22243i/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ibrahim___elwan/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/ibrahimelwan22">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+<a href="https://tryhackme.com/p/ibrahimelwan551">
+<img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
+<a href="mailto:ibrahimelwan551@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-###
+---
+
+### 👀 VISITORS
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibrahimelwan209.ibrahimelwan209&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibrahimelwan" />
 </div>
-
-###
