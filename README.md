@@ -2,11 +2,7 @@
   <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">🛡️ Cybersecurity Student | Red Team Enthusiast</h1>
-
-<p align="center">
-  <b>Breaking systems to understand them • Learning by attacking ethically</b>
-</p>
+<h1 align="center">🛡️ Cybersecurity Student | Red Team </h1>
 
 ---
 
@@ -16,11 +12,8 @@
 👤 Name: Ibrahim Elwan <br>
 🎯 Focus: Cybersecurity (Red Team / Pentesting) <br>
 💻 OS: Kali Linux • Bash <br>
-🚀 Goal: Bug Bounty Hunter & Ethical Hacker
 </p>
-
 ---
-
 ### 📚 Skills
 
 - 🧠 Object Oriented Programming (OOP)
