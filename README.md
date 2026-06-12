@@ -62,20 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ibrahimelwan209&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelwan209&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelwan209&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
