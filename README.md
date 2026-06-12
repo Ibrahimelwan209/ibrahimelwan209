@@ -9,7 +9,7 @@
 <p align="left">
 👤 Name: Ibrahim Elwan <br>
 🎯 TRACK: pentester | Bug Bounty Hunter <br>
-💻 OS: Kali Linux • Bash <br>
+💻 OS: Kali Linux  <br>
 </p>
 
 ### 📚 Skills
