@@ -1,12 +1,8 @@
-<div align="center">
-
-# 👋 Hi, I'm Ibrahim Elwan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Pentester+%7C+Bug+Bounty+Hunter;Computer+Science+Student;Always+Learning+New+Things" />
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -16,7 +12,6 @@
 - 🐧 Daily Driver: **Kali Linux**
 - 🚀 Always improving through **TryHackMe, Labs, and CTF Challenges**
 
----
 
 ## 📚 Skills
 
@@ -25,17 +20,16 @@
 - Python
 - Java
 - JavaScript
+- SQL 
+- Php
 
 ### 🔐 Cybersecurity
-- Penetration Testing
 - Web Security Basics
 - Networking (CCNA)
 - Linux & Bash Scripting
 - Git & GitHub
 - OOP
 - Data Structures & Algorithms
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -77,16 +71,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelwan209&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelwan209&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ibrahimelwan209&theme=tokyonight&no-frame=true&margin-w=10)
 
 </div>
 
