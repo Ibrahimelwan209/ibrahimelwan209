@@ -27,9 +27,15 @@
 - Web Security Basics
 - Networking (CCNA)
 - Linux & Bash Scripting
-- Git & GitHub
-- OOP
+- OWASP Top 10
+- Web Security Fundamentals
+- Network Security Fundamentals
+
+
+### 🧠 Computer Science Fundamentals
+- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
+- Problem Solving
 
 ## 🛠️ Languages & Tools
 
@@ -39,13 +45,13 @@
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications & Courses
 
 - ✅ CCNA
 - ✅ Linux Fundamentals
 - ✅ Windows Fundamentals
 - ✅ Web Basics
-- ✅ Problem Solving (Level 0)
+- ✅ OWASP Top 10 & Web Security
 
 ---
 
