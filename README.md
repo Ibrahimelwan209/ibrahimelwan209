@@ -7,10 +7,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
-- 🛡️ **Cybersecurity & Penetration Testing**
-- 🎯 TRACK: **Pentesting & Bug Bounty Hunting**
-- 🐧 Daily Driver: **Kali Linux**
-- 🚀 Always improving through **TryHackMe, Labs, and CTF Challenges**
+- 🎯 TRACK: **Pentester & Bug Bounty Hunter**
+- 🐧 OS : **Kali Linux**
 
 
 ## 📚 Skills
