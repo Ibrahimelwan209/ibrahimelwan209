@@ -8,7 +8,7 @@
 
 - 🎓 Computer Science Student
 - 🛡️ **Cybersecurity & Penetration Testing**
-- 🎯 Current Focus: **Web Pentesting & Bug Bounty Hunting**
+- 🎯 Current Focus: **Pentesting & Bug Bounty Hunting**
 - 🐧 Daily Driver: **Kali Linux**
 - 🚀 Always improving through **TryHackMe, Labs, and CTF Challenges**
 
