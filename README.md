@@ -52,19 +52,7 @@
 - ✅ Windows Fundamentals
 - ✅ Web Basics
 - ✅ OWASP Top 10 & Web Security
-
----
-
-## 🚀 Platforms
-
-<p align="left">
-  <a href="https://tryhackme.com/p/ibrahimelwan551">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/ibrahimelwan22">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
+- ✅ Problem Solving (Level 0 & 1 )
 
 ---
 
