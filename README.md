@@ -18,7 +18,7 @@
 - 📊 Data Structures & Algorithms
 - 🐧 Linux & Bash Scripting
 - 🔗 Git & GitHub
-- 🌐 Networking (CCNA Basics)
+- 🌐 Networking (CCNA)
 - 🧪 Hands-on Practice (TryHackMe / Labs)
 
 ---
